@@ -1,0 +1,1 @@
+Taruh folder project wp-course didalam folder project-wp (buat terlebih dahulu) agar database bisa terkoneksi
